@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @levo-777
-- 👀 I’m interested in Software Engineering, Cyber Security
+- 👀 I’m interested in Software Engineering and Cybr Security
 
 
 <!---
