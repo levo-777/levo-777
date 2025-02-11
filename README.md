@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @levo-777
-- 👀 I’m interested in software development and cyber security
-
 
 <!---
 levo-777/levo-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
